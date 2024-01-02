@@ -1,2 +1,2 @@
 # React-Cheat-Sheet
-key information and concepts of React
+Key information and concepts of React
